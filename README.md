@@ -116,9 +116,10 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Descript](https://www.descript.com/) — AI audio editing, filler word removal, and voice cloning.
 
 ### AI Prompt Libraries
-- [PromptBase](https://promptbase.com/) — Marketplace for buying and selling AI prompts.
-- [FlowGPT](https://flowgpt.com/) — Community-driven ChatGPT prompt sharing.
 - [AIPRM](https://www.aiprm.com/) — Curated ChatGPT prompt library with community voting.
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
+- [FlowGPT](https://flowgpt.com/) — Community-driven ChatGPT prompt sharing.
+- [PromptBase](https://promptbase.com/) — Marketplace for buying and selling AI prompts.
 - [WEDGE AI Prompt Library](https://wedgemethod.gumroad.com/l/zdevut) — 500+ prompts specifically designed for content creators, organized by platform and content type.
 
 ---
